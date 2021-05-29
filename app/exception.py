@@ -1,0 +1,2 @@
+class RequestRateLimited(Exception):
+    pass

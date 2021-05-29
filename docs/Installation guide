@@ -1,0 +1,7 @@
+Install Redis:
+Mac: https://phoenixnap.com/kb/install-redis-on-mac
+
+Start Redis:
+> redis-server
+
+
