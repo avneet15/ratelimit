@@ -1,1 +1,10 @@
+Theory:
+- Leaky bucket
+- Fixed Window
+* A simple and popular impl uses locks with a single counter: https://github.com/tomasbasham/ratelimit
+- Sliding Log
+- Sliding window
+*https://nlogn.in/design-a-scalable-rate-limiting-algorithm-system-design/#:~:text=Fixed%20window%20rate%20limiting%20algorithm,the%20remaining%20requests%20are%20dropped.
+
+
 - Check Ly ratelimiter

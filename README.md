@@ -1,6 +1,7 @@
-# ratelimit
+# ratelimiters
 
 1. Fixed window ratelimter
 
-e.g 30 reqs/min
 
+2. Sliding window ratelimiter
+- Have 'x' requests already been processed in the last 'y' seconds ?
